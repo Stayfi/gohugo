@@ -12,7 +12,7 @@ First, run your docker terminal.
 Then you will need to clone this repo :
 
 ```sh
-$ git clone git@github.com:stayfi/gohugo.git
+$ git clone https://github.com/Stayfi/gohugo.git
 ```
 
 Build stayfi/gohugo container :
